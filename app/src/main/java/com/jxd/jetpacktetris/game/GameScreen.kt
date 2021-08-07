@@ -399,7 +399,3 @@ enum class ArrowButton {
 fun GamePreview() {
     GameScreen()
 }
-
-private fun log(msg: String) {
-    Log.e("Tetris", msg)
-}
